@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h3>{{ page.title }}</h3>
+<hr>
+{% for index in site.posts reversed %}
+
+{% assign cock = 1 %}
+			
+			{% for index in site.data.zadania %}
+			{% if index.cislo == cock %}
+			<p>Dokumentacia - <a href="{{ index.url }}">{{ index.meno }}</a></p>
+			{{ index.content }}
+			{% endif %}
+			{% assign cock = cock | plus: 1 %}
+			{% endfor %}
+			{% endfor %}
+  

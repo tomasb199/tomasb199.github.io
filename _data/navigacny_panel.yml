@@ -1,0 +1,12 @@
+ - meno: "Domov"
+   url: /
+ - meno: "PRÁCA"
+   url: /praca/
+ - meno: "O MNE"
+   url: /o_mne/
+ - meno: "ZAUJMY"
+   url: /zaujmy/
+ - meno: "KONTAKT"
+   url: /kontakt/
+ - meno: "Webové publikovanie"
+   url: /WP/

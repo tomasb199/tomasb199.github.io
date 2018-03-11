@@ -1,2 +1,4 @@
 name: Tomáš Bujna
 markdown: kramdown
+plugins: 
+    - jekyll-youtube
