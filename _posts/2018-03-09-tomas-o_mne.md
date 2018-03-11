@@ -4,7 +4,7 @@ title: "O_mne"
 date: 2018-03-09
 permalink: /o_mne/
 ---
-meno, datum narodenia, miesto...
+Volám sa Tomáš Bujna, narodil som 4.8.1995 v Topoľčanoch.
 
 # Vzdelanie
 * * *
